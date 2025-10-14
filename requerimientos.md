@@ -29,3 +29,7 @@ Condiciones mínimas para considerar que el requerimiento está completo.
 
 ## 8. Notas Adicionales
 Cualquier otra información relevante.
+
+## Usuarios-Roles
+La aplicación tendra un SuperAdministrador que podra: Acceder a todos los permisos de la aplicacion;
+Crear, editar, y eliminar cuentas de veterinarios o clientes,
