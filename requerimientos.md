@@ -29,3 +29,13 @@ Condiciones mínimas para considerar que el requerimiento está completo.
 
 ## 8. Notas Adicionales
 Cualquier otra información relevante.
+
+## Usuarios-Roles
+La aplicación tendra roles los cuales son: un SuperAdministrador, AdminMenor, Veterinario, y usuario(cliente dueño de la mascota). El SuperAdmin podra: Acceder a todos los permisos de la aplicacion;
+Registrar nuevos pacientes(Mascotas) vinculados a sus respectivos dueños, ver y editar fichas, Gestionar horarios y disponibilidad de veterinarios, Bloquear y/o eliminar cuentas de usuarios. Tambien podra asignar o modificar roles a usuarios como por ejemplo quien podra acceder a las fichas medicas.
+
+El AdminMenor podra: Ver y editar fichas medicas de pacientes, Gestionar Horarios y disponibilidad de veterinarios, 
+
+El Veterinario podra:
+
+El usuario(cliente) podra:
