@@ -16,7 +16,25 @@ Datos a tomar:
 
 
 ## 4. Requerimientos Funcionales
-Lista de funcionalidades que debe tener el sistema.
+Gestion de usuarios: 
+- Registro e inicio de sesion para tres tipos de usuario: clientes, veterinarios y administradores.
+- Acceso diferenciado segun el rol asignado.
+- Los clientes pueden registrar mascotas.
+- Los veterinarios pueden gestionar fichas clinicas o atender consultas.
+- Los administradores tienen acceso total al sistema.
+
+Registro y gestion de mascotas y animales: 
+- Los veterinarios pueden registrar a las mascotas y animales ingresando nombre, raza y peso.
+- Cada mascota queda asociada a su dueño en el sistema.
+- La información registrada permite realizar diagnósticos y aplicar tratamientos adecuados.
+
+Gestion de citas:
+- visualizacion de disponibilidad por parte del cliente.
+- Confirmacion, modificacion y cancelacion de citas.
+- Notificaciones por correo o sistema.
+
+Fichas clinicas:
+- Registro de sintomas, diagnostico medico y tratamiento.
 
 ## 5. Requerimientos No Funcionales
 Restricciones o características técnicas (rendimiento, seguridad, etc.).
