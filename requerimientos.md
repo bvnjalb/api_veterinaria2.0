@@ -21,7 +21,7 @@ Diseñar un sistema que permita agendar, registrar y consultar información méd
 
 ## 4. Requerimientos Funcionales
 
-    ### Gestión de usuarios:
+### Gestion de Usuarios:
 - Registro e inicio de sesión para tres tipos de usuario: clientes, veterinarios y administradores.
 - Acceso diferenciado según el rol asignado.
 - Los clientes pueden registrar mascotas.
