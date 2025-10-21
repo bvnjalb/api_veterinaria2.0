@@ -106,4 +106,4 @@ DatoRecomendación | FechaPróximoControl
 - **Seguridad y protección de datos.**  
 - **Rendimiento:** respuesta rápida ante consultas.  
 - **Usabilidad:** interfaz intuitiva, clara y fácil de usar. 
->>>>>>> feature/requerimientos-FCheck
+
